@@ -1,5 +1,4 @@
 import os
-# enrique tarqui 
 ARCHIVO = "sis211.txt"
 
 def crearArchivo():
